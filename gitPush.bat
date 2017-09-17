@@ -1,4 +1,4 @@
-start "" "%PROGRAMFILES%\Git\bin\sh.exe" --login
+start "" "E:\Program Files\Git\bin\sh.exe" --login
 git add .
 git commit -m "update chapter notes"
 git push
