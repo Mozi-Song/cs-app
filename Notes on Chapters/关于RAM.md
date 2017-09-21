@@ -5,11 +5,11 @@ RAM is considered "random access" because you can access any memory cell directl
 Similar to a microprocessor, a memory chip is an integrated circuit (IC) made of millions of transistors and capacitors. In the most common form of computer memory, **dynamic random access memory** (DRAM), a transistor and a capacitor are paired to create a memory cell, which represents a single bit of data. The capacitor holds the bit of information -- a 0 or a 1 (see How Bits and Bytes Work for information on bits). The transistor acts as a switch that lets the control circuitry on the memory chip read the capacitor or change its state.
 
 A capacitor is like a small bucket that is able to store electrons. To store a 1 in the memory cell, the bucket is filled with electrons. To store a 0, it is emptied. The problem with the capacitor's bucket is that it has a leak. In a matter of a few milliseconds a full bucket becomes empty. Therefore, for dynamic memory to work, either the CPU or the memory controller has to come along and recharge all of the capacitors holding a 1 before they discharge. To do this, the memory controller reads the memory and then writes it right back. This refresh operation happens automatically thousands of times per second.
-<img src="Images\chap1-RAM-1.PNG" width="500"> 
+<img src="/Images/chap1-RAM-1.PNG" width="500"> 
 
 The capacitor in a dynamic RAM memory cell is like a leaky bucket. It needs to be refreshed periodically or it will discharge to 0. This refresh operation is where **dynamic RAM** gets its name. Dynamic RAM has to be dynamically refreshed all of the time or it forgets what it is holding. The downside of all of this refreshing is that it takes time and slows down the memory.
 
-<img src="Images\chap1-RAM-2.PNG" width="500"> 
+<img src="/Images/chap1-RAM-2.PNG" width="500"> 
 Memory is made up of bits arranged in a two-dimensional grid.
 
 In this figure, red cells represent 1s and white cells represent 0s. In the animation, a column is selected and then rows are charged to write data into the specific column.
