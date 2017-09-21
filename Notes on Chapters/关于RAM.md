@@ -8,8 +8,8 @@ A capacitor is like a small bucket that is able to store electrons. To store a 1
 <img src="/Images/chap1-RAM-1.PNG" width="500"> 
 
 The capacitor in a dynamic RAM memory cell is like a leaky bucket. It needs to be refreshed periodically or it will discharge to 0. This refresh operation is where **dynamic RAM** gets its name. Dynamic RAM has to be dynamically refreshed all of the time or it forgets what it is holding. The downside of all of this refreshing is that it takes time and slows down the memory.
-
 <img src="/Images/chap1-RAM-2.PNG" width="500"> 
+
 Memory is made up of bits arranged in a two-dimensional grid.
 
 In this figure, red cells represent 1s and white cells represent 0s. In the animation, a column is selected and then rows are charged to write data into the specific column.
