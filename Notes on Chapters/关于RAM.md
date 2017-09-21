@@ -11,9 +11,22 @@ In early 2012, a new Mac might be equipped with 4 GB of memory and a hard drive 
 Oddly enough, memory does not "remember" anything when the power is turned off. So why do they call it memory? Because the first memory did "remember," but today's RAM chips do not. Although there are memory chips that do hold their content permanently (ROMs, EEPROMs, flash memory, etc.), they are used for internal control purposes and data storage, not for processing. 
 
 ## RAM & ROM
-	- RAM：Ramdom Access Memory 易挥发性随机存取存储器，高速存取，读写时间相等，且与地址无关，如计算机内存等。 
-	- ROM：Read Only Memory 只读存储器。断电后信息不丢失，如计算机启动用的BIOS芯片。存取速度很低(较RAM而言)，且不能改写。由于不能改写信息，不能升级，现已很少使用。 
-	- ROM和RAM是计算机内存储器的两种型号：ROM表示的是只读存储器，即：它只能读出信息，不能写入信息，计算机关闭电源后其内的信息仍旧保存，一般用它存储固定的系统软件和字库等。RAM表示的是读写存储器，可其中的任一存储单元进行读或写操作，计算机关闭电源后其内的信息将不在保存，再次开机需要重新装入，通常用来存放操作系统，各种正在运行的软件、输入和输出数据、中间结果及与外存交换信息等，我们常说的内存主要是指RAM。
+||RAM||ROM
+|*Definition* |Random Access Memory or RAM is a form of data storage that can be accessed randomly at any time, in any order and from any physical location., allowing quick access and manipulation. |Read-only memory or ROM is also a form of data storage that can not be easily altered or reprogrammed.Stores instuctions that are not nescesary for re-booting up to make the computer operate when it is switched off.They are hardwired.
+|*Stands for* |Random Access Memory |Read-only memory
+|*Use* |RAM allows the computer to read data quickly to run applications. It allows reading and writing. |ROM stores the program required to initially boot the computer. It only allows reading.
+|*Volatility* |RAM is volatile i.e. its contents are lost when the device is powered off. |It is non-volatile i.e. its contents are retained even when the device is powered off.
+|*Types* |The two main types of RAM are static RAM and dynamic RAM. |The types of ROM include PROM, EPROM and EEPROM.
+
+- RAM：Ramdom Access Memory 易挥发性随机存取存储器，高速存取，读写时间相等，且与地址无关，如计算机内存等。 
+- ROM：Read Only Memory 只读存储器。断电后信息不丢失，如计算机启动用的BIOS芯片。存取速度很低(较RAM而言)，且不能改写。由于不能改写信息，不能升级，现已很少使用。 
+- ROM和RAM是计算机内存储器的两种型号：ROM表示的是只读存储器，即：它只能读出信息，不能写入信息，计算机关闭电源后其内的信息仍旧保存，一般用它存储固定的系统软件和字库等。RAM表示的是读写存储器，可其中的任一存储单元进行读或写操作，计算机关闭电源后其内的信息将不在保存，再次开机需要重新装入，通常用来存放操作系统，各种正在运行的软件、输入和输出数据、中间结果及与外存交换信息等，我们常说的内存主要是指RAM。
+
+## SRAM & DRAM
+//todo: 
+- SRAM & DRAM http://www.diffen.com/difference/Dynamic_random-access_memory_vs_Static_random-access_memory, how does SRAM work
+- What is ROM, how does it work, EEPROMs and all
+- diff. between firmware and OS
 
 ## RAM
 
