@@ -11,7 +11,7 @@ In early 2012, a new Mac might be equipped with 4 GB of memory and a hard drive 
 Oddly enough, memory does not "remember" anything when the power is turned off. So why do they call it memory? Because the first memory did "remember," but today's RAM chips do not. Although there are memory chips that do hold their content permanently (ROMs, EEPROMs, flash memory, etc.), they are used for internal control purposes and data storage, not for processing. 
 
 ## RAM & ROM
-||RAM||ROM
+|RAM|ROM
 |*Definition* |Random Access Memory or RAM is a form of data storage that can be accessed randomly at any time, in any order and from any physical location., allowing quick access and manipulation. |Read-only memory or ROM is also a form of data storage that can not be easily altered or reprogrammed.Stores instuctions that are not nescesary for re-booting up to make the computer operate when it is switched off.They are hardwired.
 |*Stands for* |Random Access Memory |Read-only memory
 |*Use* |RAM allows the computer to read data quickly to run applications. It allows reading and writing. |ROM stores the program required to initially boot the computer. It only allows reading.
