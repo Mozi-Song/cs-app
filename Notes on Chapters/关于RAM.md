@@ -31,3 +31,5 @@ Other functions of the memory controller include a series of tasks that include 
 Static RAM uses a completely different technology. In static RAM, a form of flip-flop holds each bit of memory (see How Boolean Logic Works for details on flip-flops). A flip-flop for a memory cell takes four or six transistors along with some wiring, but never has to be refreshed. This makes static RAM significantly faster than dynamic RAM. However, because it has more parts, a static memory cell takes up a lot more space on a chip than a dynamic memory cell. Therefore, you get less memory per chip, and that makes static RAM a lot more expensive.
 
 Static RAM is fast and expensive, and dynamic RAM is less expensive and slower. So static RAM is used to create the CPU's speed-sensitive cache, while dynamic RAM forms the larger system RAM space.
+
+Reference:　[How RAM Works](http://computer.howstuffworks.com/ram.htm)
