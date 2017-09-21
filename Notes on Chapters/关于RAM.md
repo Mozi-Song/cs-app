@@ -25,6 +25,7 @@ Oddly enough, memory does not "remember" anything when the power is turned off. 
 
 ## SRAM & DRAM
 //todo: 
+- Get useful markdown editor for Windows
 - SRAM & DRAM http://www.diffen.com/difference/Dynamic_random-access_memory_vs_Static_random-access_memory, how does SRAM work
 - What is ROM, how does it work, EEPROMs and all
 - diff. between firmware and OS
