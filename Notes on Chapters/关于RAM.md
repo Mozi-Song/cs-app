@@ -6,7 +6,7 @@
 内存又称主存，是CPU能直接寻址的存储空间，由半导体器件制成。内存的特点是存取速率快。内存是电脑中的主要部件，它是相对于外存而言的。我们平常使用的程序，如Windows操作系统、打字软件、游戏软件等，一般都是安装在硬盘等外存上的。但仅此是不能使用其功能的，必须把它们调入内存中运行，才能真正使用其功能，我们平时输入一段文字，或玩一个游戏，其实都是在内存中进行的。就好比在一个书房里，存放书籍的书架和书柜相当于电脑的外存，而我们工作的办公桌就是内存。通常我们把要永久保存的、大量的数据存储在外存上，而把一些临时的或少量的数据和程序放在内存上，当然内存的好坏会直接影响电脑的运行速度。
 
 ## Why Memory
-In early 2012, a new Mac might be equipped with 4 GB of memory and a hard drive whose storage capacity is 500 GB. The primary reason for this great disparity is cost. Memory, RAM, is much more expensive then hard drive storage space. Here’s a rough comparison. One GB of RAM costs about $8, while 1 GB of hard drive storage space costs about 10 cents. In other words, RAM costs about 8000 as much as hard drive storage space.
+In early 2012, a new Mac might be equipped with 4 GB of memory and a hard drive whose storage capacity is 500 GB. The primary reason for this great disparity is cost. Memory, RAM, is much more expensive than hard drive storage space. Here’s a rough comparison. One GB of RAM costs about $8, while 1 GB of hard drive storage space costs about 10 cents. In other words, RAM costs about 8000 as much as hard drive storage space.
 
 Oddly enough, memory does not "remember" anything when the power is turned off. So why do they call it memory? Because the first memory did "remember," but today's RAM chips do not. Although there are memory chips that do hold their content permanently (ROMs, EEPROMs, flash memory, etc.), they are used for internal control purposes and data storage, not for processing. 
 
