@@ -27,6 +27,8 @@ non-volatile storage = secondary storage = external memory = auxiliary/periphera
 
 内存通常以**内存总线 (memory bus)**与CPU相连。其实有两条总线：**地址总线**和**数据总线**。CPU先从地址总线发送一个内存地址到内存，内存地址表示CPU想要拿到的数据的地址。然后它经过数据总线向memory cells读写数据。
 
+由于primary storage用的是易挥发的RAM，计算机启动时还需要一片不易挥发的二级存储空间来存放程序，然后一个叫BIOS的程序会从二级存储空间读取程序到内存中执行。这个过程叫做**bootstrap**。这个BIOS程序放在一个不易挥发的存储空间，称为**ROM**。
+
 # RAM & ROM
 
 ## RAM & ROM
