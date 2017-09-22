@@ -1,4 +1,3 @@
-<font face="微软雅黑">
 ## Von Neumann机器模型
 
 组成：
@@ -106,5 +105,3 @@ Oddly enough, memory does not "remember" anything when the power is turned off. 
 # 总结
 
 - RAM称为Random Access Memory的原因是它可以通过已知的行、列数access任何一个memory cell，而不需要像SAM那样遍历前面的所有memory cell直至找到想要的那一个。简而言之，RAM可以以任何顺序访问memory cell，而SAM比较适合顺序访问。
-
--</font>
