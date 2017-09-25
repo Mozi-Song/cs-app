@@ -18,7 +18,7 @@ Von Neumann机器模型是一种stored-program computer，与program-controlled 
 
 通常计算机中会有一个storage hierarchy，将快、小而贵的存储方式放在CPU的近处，而慢、大而便宜的放在远处。一般把前面这些快且挥发性(volatile)的称作memory，而慢且掉电不丢失数据的称作storage。不过有时把掉电不丢失数据的存储方式也叫memory。
 
-<img src="https://en.wikipedia.org/wiki/Computer_data_storage#/media/File:Computer_storage_types.svg" width="300"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Computer_storage_types.svg" width="300"> 
 
 现代用法中一般用memory指代半导体随机读写存储器，即RAM，一般指DRAM或其他快速但临时的存储。而storage一般指CPU**不直接访问**的存储，如硬盘，光盘和其他比RAM慢但不挥发的存储方式。
 
